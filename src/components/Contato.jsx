@@ -1,0 +1,17 @@
+const Contato = () => {
+    return (
+        <>
+            <main className="grow flex items-center justify-center px-4">
+                <div className="bg-black p-8 sm:p-10 rounded-[20px] w-full max-w-md shadow-2xl border-2 border-[#95ff00]">
+
+                    <h2 className="text-2xl sm:text-3xl font-extrabold text-[#95ff00] text-center mb-6 uppercase tracking-wider">
+                        Fale Conosco
+                    </h2>
+
+                </div>
+            </main>
+        </>
+    )
+}
+
+export default Contato
